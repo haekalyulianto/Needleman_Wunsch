@@ -1,2 +1,6 @@
-# Needleman-Wunsch
-Needleman-Wunsch algorithm implementation for bioinformatics class assignment
+# Needleman Wunsch
+Needleman-Wunsch Algorithm Implementation for Bioinformatics Class
+<br />
+<br />
+# Author
+Haekal Rizky Yulianto
